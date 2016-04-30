@@ -1,4 +1,6 @@
 *.aux
+.gitignore
 *.log
 *.out
 *.swp
+*.pdf
