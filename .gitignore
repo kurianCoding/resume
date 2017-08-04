@@ -1,6 +1,6 @@
 .gitignore
 *.aux
-.DS_Store
+.DS\_Store
 *.log
 *.out
 *.swp
